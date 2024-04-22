@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## Application demo
+[![Watch the video](https://img.freepik.com/premium-vector/video-icon-png_564384-173.jpg)](https://www.loom.com/share/fd9ba0985716458b94b9b9056f70f3c3?sid=23ed9669-a463-433b-8b4d-843f5df24520)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
